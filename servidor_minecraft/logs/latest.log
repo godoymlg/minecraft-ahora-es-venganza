@@ -709,3 +709,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Jun2025 18:15:20.970] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [26Jun2025 18:15:23.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
 [26Jun2025 18:15:24.152] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3126ms or 62 ticks
+[26Jun2025 18:24:39.041] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player u3f_msmc_nji is e90924d5-4df3-4d90-bb82-8b151b1c85e7
+[26Jun2025 18:24:44.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: u3f_msmc_nji[/127.240.8.62:35271] logged in with entity id 604 at (152.30000001192093, 85.0, -7.3773235375108435)
+[26Jun2025 18:24:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: u3f_msmc_nji joined the game
+[26Jun2025 18:24:44.986] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
+[26Jun2025 18:25:55.846] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[26Jun2025 18:27:02.856] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 3 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@5b861cab
+[26Jun2025 18:27:30.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: u3f_msmc_nji lost connection: Disconnected
+[26Jun2025 18:27:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: u3f_msmc_nji left the game
