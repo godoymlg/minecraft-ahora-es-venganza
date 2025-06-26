@@ -39,11 +39,13 @@
     "criteria": {
       "Completed Air Fryer§r": "2025-06-26 21:15:41 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
+      "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
+      "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000"
     },
@@ -297,11 +299,13 @@
       "Completed Air Fryer§r": "2025-06-26 21:15:41 +0000",
       "Prestige Mode Disabled": "2025-06-26 20:12:57 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
+      "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
+      "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000"
     },
@@ -391,9 +395,10 @@
   "sf4:age1/twerk": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000",
-      "Obtain 8 Dirt Saplings": "2025-06-26 20:25:33 +0000"
+      "Obtain 8 Dirt Saplings": "2025-06-26 20:25:33 +0000",
+      "Obtain 8 Oak Logs": "2025-06-26 21:36:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/cauldron": {
     "criteria": {
@@ -404,6 +409,12 @@
   "sf4:age1/cobblestone_generator": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2025-06-26 21:38:19 +0000"
     },
     "done": false
   },
@@ -501,9 +512,10 @@
   },
   "sf4:age1/cobblestone": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Cobblestone Block": "2025-06-26 21:38:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/gold": {
     "criteria": {
