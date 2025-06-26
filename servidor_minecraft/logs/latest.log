@@ -7055,3 +7055,38 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:51:08] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
 [21:51:08] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
 [22:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [Palm Trees]
+[22:02:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Godoymlg lost connection: Disconnected
+[22:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg left the game
+[22:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:02:24] [Server thread/INFO] [AromaBackup]: No backup in progress. No server delay needed.
+[22:02:24] [Server thread/INFO] [Prestige]: Saving data for e90924d5-4df3-4d90-bb82-8b151b1c85e7.
+[22:02:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:02:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:02:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:02:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/DIM_0
+[22:02:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[22:02:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:02:25] [Server thread/INFO] [FML]: Unloading dimension 2
+[22:02:25] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[22:02:25] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 1 data blobs
+[22:02:25] [Server thread/INFO] [nuclearcraft]: Server Closing...
+[22:02:25] [Server thread/INFO] [Parabox]: Saving Parabox world data.
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Server Info Handler
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Network Handler
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Data Factory
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Data Manager
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Wireless Redstone Manager
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Cable Connection Handler
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Redstone Connection Handler
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Server Display Handler
+[22:02:25] [Server thread/INFO] [practicallogistics2]: Cleared Chunk Viewer Handler
+[22:02:25] [Server thread/INFO] [topography]: Cleaning up
+[22:02:25] [Server thread/INFO] [topography]: Unregistering Dimension 0
+[22:02:25] [Server thread/INFO] [topography]: Registering Dimension 0
+[22:02:25] [Server thread/INFO] [topography]: Unregistering Dimension -1
+[22:02:25] [Server thread/INFO] [topography]: Registering Dimension -1
+[22:02:25] [Server thread/INFO] [topography]: Done clean-up
+[22:02:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:02:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:02:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
