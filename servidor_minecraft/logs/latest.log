@@ -7046,3 +7046,11 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:25:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [I Love Lucy]
 [21:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [Sticky Keys]
 [21:38:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [On the Rocks]
+[21:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [Eating Dirt]
+[21:43:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Godoymlg has made the advancement [Clay Aiken]
+[21:51:06] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Starting Backup. The server may lag for a bit!
+[21:51:06] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[21:51:08] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:51:08] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[21:51:08] [Aromabackup-Backup/OFF] [Aroma1997Core]: Message to players; Message: Server Backup done!
+[21:51:08] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!

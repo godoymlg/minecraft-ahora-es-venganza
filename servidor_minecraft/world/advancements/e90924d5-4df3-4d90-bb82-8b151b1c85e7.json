@@ -47,7 +47,9 @@
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
-      "Completed Hardwood§r": "2025-06-26 21:24:49 +0000"
+      "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
+      "Completed Eating Dirt§r": "2025-06-26 21:43:22 +0000",
+      "Completed Clay Aiken§r": "2025-06-26 21:43:56 +0000"
     },
     "done": false
   },
@@ -173,7 +175,8 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2025-06-26 20:19:19 +0000",
-      "Obtain Petrified Sapling": "2025-06-26 21:24:49 +0000"
+      "Obtain Petrified Sapling": "2025-06-26 21:24:49 +0000",
+      "Obtain Clay Sapling": "2025-06-26 21:43:56 +0000"
     },
     "done": false
   },
@@ -307,7 +310,9 @@
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
-      "Completed Hardwood§r": "2025-06-26 21:24:49 +0000"
+      "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
+      "Completed Eating Dirt§r": "2025-06-26 21:43:22 +0000",
+      "Completed Clay Aiken§r": "2025-06-26 21:43:56 +0000"
     },
     "done": false
   },
@@ -341,6 +346,12 @@
       "inventoryChange": "2025-06-26 20:12:54 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/claysapling": {
+    "criteria": {
+      "Obtain a Clay Sapling": "2025-06-26 21:43:56 +0000"
+    },
+    "done": false
   },
   "sf4:age1/sleep": {
     "criteria": {
@@ -381,9 +392,10 @@
   },
   "sf4:age1/acorn/dirt_cooked": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Cooked Dirt Acorn": "2025-06-26 21:43:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/watersource": {
     "criteria": {
@@ -506,9 +518,10 @@
   },
   "sf4:age1/sapling/clay": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain a Clay Sapling": "2025-06-26 21:43:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/cobblestone": {
     "criteria": {
