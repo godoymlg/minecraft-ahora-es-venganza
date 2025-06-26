@@ -717,3 +717,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Jun2025 18:27:02.856] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 3 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@5b861cab
 [26Jun2025 18:27:30.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: u3f_msmc_nji lost connection: Disconnected
 [26Jun2025 18:27:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: u3f_msmc_nji left the game
+[26Jun2025 19:20:23.188] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
