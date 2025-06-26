@@ -41,6 +41,7 @@
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
       "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
+      "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
@@ -172,10 +173,17 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/sandsapling": {
+    "criteria": {
+      "Obtain Sand Sapling": "2025-06-26 22:01:28 +0000"
+    },
+    "done": false
+  },
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2025-06-26 20:19:19 +0000",
       "Obtain Petrified Sapling": "2025-06-26 21:24:49 +0000",
+      "Obtain Sand Sapling": "2025-06-26 22:01:28 +0000",
       "Obtain Clay Sapling": "2025-06-26 21:43:56 +0000"
     },
     "done": false
@@ -261,9 +269,10 @@
   },
   "sf4:age1/sapling/sand": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Sand Sapling": "2025-06-26 22:01:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/dirt": {
     "criteria": {
@@ -304,6 +313,7 @@
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
       "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
+      "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
