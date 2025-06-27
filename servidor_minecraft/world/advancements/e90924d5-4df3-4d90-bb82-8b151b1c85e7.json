@@ -24,12 +24,14 @@
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Completed Nap Time§r": "2025-06-27 20:21:44 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
       "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:25 +0000",
       "Completed Bubble, Bubble§r": "2025-06-27 19:51:55 +0000",
       "Completed Slop in the Bucket§r": "2025-06-27 19:50:45 +0000",
+      "Completed You Cotton Something?§r": "2025-06-27 20:15:00 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:06 +0000",
@@ -62,9 +64,10 @@
   "sf4:age1/string": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000",
-      "Obtain Cottonwood Sapling": "2025-06-27 19:59:02 +0000"
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:02 +0000",
+      "Obtain String": "2025-06-27 20:15:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
@@ -174,12 +177,14 @@
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Completed Nap Time§r": "2025-06-27 20:21:44 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
       "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:25 +0000",
       "Completed Bubble, Bubble§r": "2025-06-27 19:51:55 +0000",
       "Completed Slop in the Bucket§r": "2025-06-27 19:50:45 +0000",
+      "Completed You Cotton Something?§r": "2025-06-27 20:15:00 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:06 +0000",
@@ -217,9 +222,10 @@
   },
   "sf4:age1/sleep": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Right Click on Bed": "2025-06-27 20:21:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/lead": {
     "criteria": {
@@ -617,7 +623,8 @@
   },
   "tutorial:tutorial/copied/string": {
     "criteria": {
-      "Obtain Cottonwood Sapling": "2025-06-27 19:59:02 +0000"
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:02 +0000",
+      "Obtain String": "2025-06-27 20:15:00 +0000"
     },
     "done": false
   },
