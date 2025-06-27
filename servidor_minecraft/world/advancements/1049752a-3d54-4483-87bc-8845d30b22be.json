@@ -27,6 +27,7 @@
       "Completed Nap Time§r": "2025-06-27 20:21:48 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:30:47 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 20:32:33 +0000",
+      "Completed Amber is the Color of my Dinosaur§r": "2025-06-27 20:34:02 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:27:47 +0000",
       "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:21 +0000",
       "Completed Bubble, Bubble§r": "2025-06-27 19:52:01 +0000",
@@ -71,6 +72,7 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-06-26 20:27:47 +0000",
+      "Completed Whopper!§r": "2025-06-27 20:28:28 +0000",
       "Completed Age of Storage§r": "2025-06-26 20:27:47 +0000"
     },
     "done": false
@@ -121,6 +123,7 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
+      "Completed Whopper!§r": "2025-06-27 20:28:28 +0000",
       "Completed Age of Storage§r": "2025-06-26 20:27:47 +0000"
     },
     "done": false
@@ -173,6 +176,7 @@
       "Completed Nap Time§r": "2025-06-27 20:21:48 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:30:47 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 20:32:33 +0000",
+      "Completed Amber is the Color of my Dinosaur§r": "2025-06-27 20:34:02 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:27:47 +0000",
       "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:21 +0000",
       "Completed Bubble, Bubble§r": "2025-06-27 19:52:01 +0000",
@@ -494,6 +498,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/iron": {
+    "criteria": {
+      "Obtain Iron Amber": "2025-06-27 20:34:02 +0000"
+    },
+    "done": false
+  },
   "sf4:age_exploration/root": {
     "criteria": {
       "inventoryChange": "2025-06-26 20:27:47 +0000"
@@ -635,14 +645,21 @@
   },
   "sf4:age1/amber/iron": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Iron Amber": "2025-06-27 20:34:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/drying_rack": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000",
       "Obtain Drying Rack": "2025-06-26 20:39:12 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_storage/woodenhopper": {
+    "criteria": {
+      "Obtain Wooden Hopper": "2025-06-27 20:28:28 +0000"
     },
     "done": true
   },
