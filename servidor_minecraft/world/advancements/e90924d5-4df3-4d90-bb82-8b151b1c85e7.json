@@ -40,12 +40,16 @@
       "Completed Air Fryer§r": "2025-06-26 21:15:41 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
       "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
+      "Completed Break a Leg§r": "2025-06-27 19:46:04 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
+      "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:25 +0000",
+      "Completed Bubble, Bubble§r": "2025-06-27 19:51:55 +0000",
+      "Completed Slop in the Bucket§r": "2025-06-27 19:50:45 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
@@ -101,6 +105,12 @@
   "sf4:age1/sapling/slime": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/gravelsapling": {
+    "criteria": {
+      "Obtain Gravel Sapling": "2025-06-27 19:49:25 +0000"
     },
     "done": false
   },
@@ -179,12 +189,20 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/cauldron": {
+    "criteria": {
+      "Obtain a Cauldron": "2025-06-27 19:51:55 +0000"
+    },
+    "done": false
+  },
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2025-06-26 20:19:19 +0000",
       "Obtain Petrified Sapling": "2025-06-26 21:24:49 +0000",
       "Obtain Sand Sapling": "2025-06-26 22:01:28 +0000",
-      "Obtain Clay Sapling": "2025-06-26 21:43:56 +0000"
+      "Obtain Clay Sapling": "2025-06-26 21:43:56 +0000",
+      "Obtain Gravel Sapling": "2025-06-27 19:49:25 +0000",
+      "Obtain Bone Sapling": "2025-06-27 19:46:04 +0000"
     },
     "done": false
   },
@@ -306,18 +324,28 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/claybucket": {
+    "criteria": {
+      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:45 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/completenoprestige": {
     "criteria": {
       "Completed Air Fryer§r": "2025-06-26 21:15:41 +0000",
       "Prestige Mode Disabled": "2025-06-26 20:12:57 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:19:19 +0000",
       "Completed Sticky Keys§r": "2025-06-26 21:36:50 +0000",
+      "Completed Break a Leg§r": "2025-06-27 19:46:04 +0000",
       "Completed I Love Lucy§r": "2025-06-26 21:25:54 +0000",
       "Completed Palm Trees§r": "2025-06-26 22:01:28 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000",
       "Completed Captain Hook§r": "2025-06-26 20:21:31 +0000",
       "Completed Dirty Dancing§r": "2025-06-26 21:15:15 +0000",
       "Completed SkyFactory 4§r": "2025-06-26 20:12:57 +0000",
+      "Completed Don\u0027t Sieve on Me§r": "2025-06-27 19:49:25 +0000",
+      "Completed Bubble, Bubble§r": "2025-06-27 19:51:55 +0000",
+      "Completed Slop in the Bucket§r": "2025-06-27 19:50:45 +0000",
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
@@ -371,9 +399,10 @@
   },
   "sf4:age1/sapling/bone": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Bone Sapling": "2025-06-27 19:46:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "pacifist:pacifist_run/peaceful": {
     "criteria": {
@@ -424,9 +453,10 @@
   },
   "sf4:age1/cauldron": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain a Cauldron": "2025-06-27 19:51:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/cobblestone_generator": {
     "criteria": {
@@ -448,9 +478,10 @@
   },
   "sf4:age1/sapling/gravel": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Gravel Sapling": "2025-06-27 19:49:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/crushing_tub": {
     "criteria": {
@@ -467,9 +498,10 @@
   },
   "sf4:age1/clay_bucket": {
     "criteria": {
+      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:45 +0000",
       "Completed Root": "2025-06-26 20:12:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/petrifiedacorn": {
     "criteria": {
