@@ -14,6 +14,7 @@
   },
   "sf4:age1/complete": {
     "criteria": {
+      "Completed Tin Man§r": "2025-06-27 20:13:53 +0000",
       "Completed Air Fryer§r": "2025-06-26 20:39:12 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:28:40 +0000",
       "Completed Sticky Keys§r": "2025-06-26 20:35:30 +0000",
@@ -30,7 +31,9 @@
       "Completed Bubble, Bubble§r": "2025-06-27 19:52:01 +0000",
       "Completed Slop in the Bucket§r": "2025-06-27 19:50:49 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:31:19 +0000",
+      "Completed COALateral Damage§r": "2025-06-27 20:14:13 +0000",
       "Completed Hardwood§r": "2025-06-26 20:42:32 +0000",
+      "Completed Sixteen Tons§r": "2025-06-27 20:09:39 +0000",
       "Completed Eating Dirt§r": "2025-06-27 19:43:09 +0000",
       "Completed Clay Aiken§r": "2025-06-27 19:44:47 +0000"
     },
@@ -153,6 +156,7 @@
   },
   "sf4:age1/completenoprestige": {
     "criteria": {
+      "Completed Tin Man§r": "2025-06-27 20:13:53 +0000",
       "Completed Air Fryer§r": "2025-06-26 20:39:12 +0000",
       "Prestige Mode Disabled": "2025-06-26 20:27:47 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:28:40 +0000",
@@ -170,7 +174,9 @@
       "Completed Bubble, Bubble§r": "2025-06-27 19:52:01 +0000",
       "Completed Slop in the Bucket§r": "2025-06-27 19:50:49 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:31:19 +0000",
+      "Completed COALateral Damage§r": "2025-06-27 20:14:13 +0000",
       "Completed Hardwood§r": "2025-06-26 20:42:32 +0000",
+      "Completed Sixteen Tons§r": "2025-06-27 20:09:39 +0000",
       "Completed Eating Dirt§r": "2025-06-27 19:43:09 +0000",
       "Completed Clay Aiken§r": "2025-06-27 19:44:47 +0000"
     },
@@ -329,9 +335,10 @@
   },
   "sf4:age1/amber/tin": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Tin Amber": "2025-06-27 20:13:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/acorn/dirt": {
     "criteria": {
@@ -440,6 +447,7 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2025-06-26 20:28:40 +0000",
+      "Obtain Coal Sapling": "2025-06-27 20:09:39 +0000",
       "Obtain Cottonwood Sapling": "2025-06-27 19:59:06 +0000",
       "Obtain Petrified Sapling": "2025-06-26 20:42:32 +0000",
       "Obtain Sand Sapling": "2025-06-27 19:44:57 +0000",
@@ -475,15 +483,22 @@
   },
   "sf4:age1/coal": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Coal": "2025-06-27 20:14:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_exploration/root": {
     "criteria": {
       "inventoryChange": "2025-06-26 20:27:47 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/coalsapling": {
+    "criteria": {
+      "Obtain Coal Sapling": "2025-06-27 20:09:39 +0000"
+    },
+    "done": false
   },
   "sf4:age_storage/root": {
     "criteria": {
@@ -519,9 +534,10 @@
   },
   "sf4:age1/sapling/coal": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Coal Sapling": "2025-06-27 20:09:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/complete": {
     "criteria": {
