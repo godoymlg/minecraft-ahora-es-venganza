@@ -36,6 +36,7 @@
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:06 +0000",
+      "Completed Oh, the Irony§r": "2025-06-27 20:39:45 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
       "Completed Sixteen Tons§r": "2025-06-27 20:09:35 +0000",
       "Completed Eating Dirt§r": "2025-06-26 21:43:22 +0000",
@@ -74,7 +75,8 @@
     "criteria": {
       "Prestige Mode Disabled": "2025-06-26 20:12:57 +0000",
       "Completed Whopper!§r": "2025-06-27 20:28:23 +0000",
-      "Completed Age of Storage§r": "2025-06-26 20:12:54 +0000"
+      "Completed Age of Storage§r": "2025-06-26 20:12:54 +0000",
+      "Completed Hop to It§r": "2025-06-27 20:42:18 +0000"
     },
     "done": false
   },
@@ -125,7 +127,8 @@
   "sf4:age_storage/complete": {
     "criteria": {
       "Completed Whopper!§r": "2025-06-27 20:28:23 +0000",
-      "Completed Age of Storage§r": "2025-06-26 20:12:54 +0000"
+      "Completed Age of Storage§r": "2025-06-26 20:12:54 +0000",
+      "Completed Hop to It§r": "2025-06-27 20:42:18 +0000"
     },
     "done": false
   },
@@ -192,6 +195,7 @@
       "Completed On the Rocks§r": "2025-06-26 21:38:19 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:21:49 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:06 +0000",
+      "Completed Oh, the Irony§r": "2025-06-27 20:39:45 +0000",
       "Completed Hardwood§r": "2025-06-26 21:24:49 +0000",
       "Completed Sixteen Tons§r": "2025-06-27 20:09:35 +0000",
       "Completed Eating Dirt§r": "2025-06-26 21:43:22 +0000",
@@ -352,6 +356,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/hoppingbonsai": {
+    "criteria": {
+      "Obtain Bonsai Pot": "2025-06-27 20:42:22 +0000"
+    },
+    "done": true
+  },
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2025-06-26 21:15:41 +0000"
@@ -411,15 +421,22 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:12:57 +0000"
+      "Completed Root": "2025-06-26 20:12:57 +0000",
+      "Obtain Iron Ingot": "2025-06-27 20:39:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000"
     },
     "done": false
+  },
+  "sf4:age_storage/hopper": {
+    "criteria": {
+      "Obtain Hopper": "2025-06-27 20:42:18 +0000"
+    },
+    "done": true
   },
   "sf4:age1/iron_bucket": {
     "criteria": {
@@ -665,6 +682,12 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-06-27 20:39:45 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/drying_rack": {
     "criteria": {
       "Completed Root": "2025-06-26 20:12:57 +0000",
@@ -702,6 +725,7 @@
   },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
+      "Completed Cowabonsai!§r": "2025-06-27 20:42:22 +0000",
       "Prestige Mode Disabled": "2025-06-26 20:12:57 +0000",
       "Completed Bonsai!!!§r": "2025-06-27 20:04:44 +0000",
       "Completed Age of Farming§r": "2025-06-26 20:12:54 +0000"

@@ -35,6 +35,7 @@
       "Completed You Cotton Something?§r": "2025-06-27 20:15:23 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:31:19 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:13 +0000",
+      "Completed Oh, the Irony§r": "2025-06-27 20:42:06 +0000",
       "Completed Hardwood§r": "2025-06-26 20:42:32 +0000",
       "Completed Sixteen Tons§r": "2025-06-27 20:09:39 +0000",
       "Completed Eating Dirt§r": "2025-06-27 19:43:09 +0000",
@@ -184,6 +185,7 @@
       "Completed You Cotton Something?§r": "2025-06-27 20:15:23 +0000",
       "Completed Starting from the Bottom§r": "2025-06-26 20:31:19 +0000",
       "Completed COALateral Damage§r": "2025-06-27 20:14:13 +0000",
+      "Completed Oh, the Irony§r": "2025-06-27 20:42:06 +0000",
       "Completed Hardwood§r": "2025-06-26 20:42:32 +0000",
       "Completed Sixteen Tons§r": "2025-06-27 20:09:39 +0000",
       "Completed Eating Dirt§r": "2025-06-27 19:43:09 +0000",
@@ -396,9 +398,10 @@
   },
   "sf4:age1/iron_ingot": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Iron Ingot": "2025-06-27 20:42:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
@@ -649,6 +652,12 @@
       "Obtain Iron Amber": "2025-06-27 20:34:02 +0000"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-06-27 20:42:06 +0000"
+    },
+    "done": false
   },
   "sf4:age1/drying_rack": {
     "criteria": {
