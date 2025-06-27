@@ -1,37 +1,14 @@
 {
-  "sf4:age_allthethingsomglol/complete": {
-    "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/oakwood": {
-    "criteria": {
-      "Obtain Oak Wood": "2025-06-26 20:29:48 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/root": {
-    "criteria": {
-      "inventoryChange": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
-  },
   "sf4:age1/sapling/cottonwood": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/oakplanks": {
     "criteria": {
       "Obtain Oak Wood Planks": "2025-06-26 20:30:40 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/complete": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-06-26 20:27:47 +0000"
     },
     "done": false
   },
@@ -40,6 +17,8 @@
       "Completed Air Fryer§r": "2025-06-26 20:39:12 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:28:40 +0000",
       "Completed Sticky Keys§r": "2025-06-26 20:35:30 +0000",
+      "Completed You Cotton Be Kidding Me§r": "2025-06-27 19:59:06 +0000",
+      "Completed Water You Waiting For?§r": "2025-06-27 19:56:48 +0000",
       "Completed Break a Leg§r": "2025-06-27 19:45:59 +0000",
       "Completed I Love Lucy§r": "2025-06-27 19:44:13 +0000",
       "Completed Palm Trees§r": "2025-06-27 19:44:57 +0000",
@@ -57,32 +36,7 @@
     },
     "done": false
   },
-  "sf4:age1/sapling/dirt": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2025-06-26 20:28:40 +0000",
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
-  },
   "sf4:age1/sapling/bacon": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/resourcehogs": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/iron_ingot": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/green_slimy_dirt": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
     },
@@ -95,25 +49,7 @@
     },
     "done": true
   },
-  "sf4:age1/iron_bucket": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/sapling/slime": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/gravelsapling": {
-    "criteria": {
-      "Obtain Gravel Sapling": "2025-06-27 19:49:21 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/silver": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
     },
@@ -121,13 +57,8 @@
   },
   "sf4:age1/string": {
     "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/lead": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:06 +0000"
     },
     "done": false
   },
@@ -135,12 +66,6 @@
     "criteria": {
       "Prestige Mode Disabled": "2025-06-26 20:27:47 +0000",
       "Completed Age of Storage§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/placedirtsapling": {
-    "criteria": {
-      "Placed Dirt Sapling": "2025-06-26 20:28:47 +0000"
     },
     "done": false
   },
@@ -157,21 +82,9 @@
     },
     "done": false
   },
-  "sf4:age1/amber/gold": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/sapling/tin": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/dirtsapling": {
-    "criteria": {
-      "Obtain a Dirt Sapling": "2025-06-26 20:28:40 +0000"
     },
     "done": false
   },
@@ -188,50 +101,15 @@
     },
     "done": false
   },
-  "tutorial:tutorial/copied/cauldron": {
+  "sf4:age_farming/bonsai": {
     "criteria": {
-      "Obtain a Cauldron": "2025-06-27 19:52:01 +0000"
+      "Obtain Bonsai Pot": "2025-06-27 20:04:37 +0000"
     },
-    "done": false
-  },
-  "sf4:age_farming/skyorchards": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2025-06-26 20:28:40 +0000",
-      "Obtain Petrified Sapling": "2025-06-26 20:42:32 +0000",
-      "Obtain Sand Sapling": "2025-06-27 19:44:57 +0000",
-      "Obtain Clay Sapling": "2025-06-27 19:44:47 +0000",
-      "Obtain Gravel Sapling": "2025-06-27 19:49:21 +0000",
-      "Obtain Bone Sapling": "2025-06-27 19:45:59 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/skygriddragonkill": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/crushingtub": {
-    "criteria": {
-      "Obtain Crushing Tub": "2025-06-27 19:44:13 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/lapis": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
+    "done": true
   },
   "pacifist:pacifist_run/root": {
     "criteria": {
       "hasRock": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/coal": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
     },
     "done": false
   },
@@ -241,31 +119,7 @@
     },
     "done": false
   },
-  "sf4:age_exploration/root": {
-    "criteria": {
-      "inventoryChange": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
-  },
   "sf4:age1/slabs": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_storage/root": {
-    "criteria": {
-      "inventoryChange": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/diamond": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/obsidian": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
     },
@@ -284,35 +138,9 @@
     },
     "done": false
   },
-  "sf4:age1/sapling/sand": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000",
-      "Obtain Sand Sapling": "2025-06-27 19:44:57 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/dirt": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000",
-      "Craft Dirt Block": "2025-06-26 20:32:33 +0000"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/coal": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
       "Completed Age of Exploration§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/complete": {
-    "criteria": {
-      "Completed Age of Enhancement§r": "2025-06-26 20:27:47 +0000"
     },
     "done": false
   },
@@ -323,19 +151,14 @@
     },
     "done": false
   },
-  "tutorial:tutorial/copied/claybucket": {
-    "criteria": {
-      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:49 +0000",
-      "Obtain Clay Bucket": "2025-06-27 19:51:27 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/completenoprestige": {
     "criteria": {
       "Completed Air Fryer§r": "2025-06-26 20:39:12 +0000",
       "Prestige Mode Disabled": "2025-06-26 20:27:47 +0000",
       "Completed That\u0027s Dir-tree§r": "2025-06-26 20:28:40 +0000",
       "Completed Sticky Keys§r": "2025-06-26 20:35:30 +0000",
+      "Completed You Cotton Be Kidding Me§r": "2025-06-27 19:59:06 +0000",
+      "Completed Water You Waiting For?§r": "2025-06-27 19:56:48 +0000",
       "Completed Break a Leg§r": "2025-06-27 19:45:59 +0000",
       "Completed I Love Lucy§r": "2025-06-27 19:44:13 +0000",
       "Completed Palm Trees§r": "2025-06-27 19:44:57 +0000",
@@ -350,18 +173,6 @@
       "Completed Hardwood§r": "2025-06-26 20:42:32 +0000",
       "Completed Eating Dirt§r": "2025-06-27 19:43:09 +0000",
       "Completed Clay Aiken§r": "2025-06-27 19:44:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/iron": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/stone_crook": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
     },
     "done": false
   },
@@ -396,20 +207,6 @@
     },
     "done": false
   },
-  "sf4:age1/sapling/bone": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000",
-      "Obtain Bone Sapling": "2025-06-27 19:45:59 +0000"
-    },
-    "done": true
-  },
-  "pacifist:pacifist_run/peaceful": {
-    "criteria": {
-      "brokeLeaves": "2025-06-26 20:29:56 +0000",
-      "brokeLog": "2025-06-26 20:29:40 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/sapling/lead": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
@@ -422,33 +219,12 @@
     },
     "done": false
   },
-  "sf4:age1/water": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/acorn/dirt_cooked": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000",
-      "Obtain Cooked Dirt Acorn": "2025-06-27 19:43:09 +0000"
-    },
-    "done": true
-  },
   "sf4:age1/watersource": {
     "criteria": {
       "Completed SkyFactory 4§r": "2025-06-26 20:27:47 +0000",
       "Completed Root": "2025-06-26 20:27:47 +0000"
     },
     "done": false
-  },
-  "sf4:age1/twerk": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000",
-      "Obtain 8 Dirt Saplings": "2025-06-26 20:31:47 +0000",
-      "Obtain 8 Oak Logs": "2025-06-26 20:35:30 +0000"
-    },
-    "done": true
   },
   "sf4:age1/cauldron": {
     "criteria": {
@@ -470,12 +246,6 @@
     },
     "done": true
   },
-  "sf4:age_power/complete": {
-    "criteria": {
-      "Completed Age of Power§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/crushing_tub": {
     "criteria": {
       "Obtain Crushing Tub": "2025-06-27 19:44:13 +0000",
@@ -489,32 +259,13 @@
     },
     "done": false
   },
-  "sf4:age1/clay_bucket": {
-    "criteria": {
-      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:49 +0000",
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
-  },
   "tutorial:tutorial/petrifiedacorn": {
     "criteria": {
       "Obtain Oak Wood Planks": "2025-06-26 20:41:08 +0000"
     },
     "done": false
   },
-  "sf4:age_farming/complete": {
-    "criteria": {
-      "Completed Age of Farming§r": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "sf4:age1/lava": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
-  "sf4:age1/amber/iron": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000"
     },
@@ -570,18 +321,307 @@
     },
     "done": false
   },
+  "tutorial:tutorial/dryingrack": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2025-06-26 20:39:12 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/tin": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/acorn/dirt": {
+    "criteria": {
+      "Obtain Dirt Acorn": "2025-06-26 20:31:19 +0000",
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/complete": {
+    "criteria": {
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/oakwood": {
+    "criteria": {
+      "Obtain Oak Wood": "2025-06-26 20:29:48 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/root": {
+    "criteria": {
+      "inventoryChange": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/complete": {
+    "criteria": {
+      "Completed Age of Exploration§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/dirt": {
+    "criteria": {
+      "Obtain Dirt Sapling": "2025-06-26 20:28:40 +0000",
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/resourcehogs": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/iron_ingot": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/green_slimy_dirt": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/iron_bucket": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/gravelsapling": {
+    "criteria": {
+      "Obtain Gravel Sapling": "2025-06-27 19:49:21 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/silver": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/lead": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/placedirtsapling": {
+    "criteria": {
+      "Placed Dirt Sapling": "2025-06-26 20:28:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/gold": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/dirtsapling": {
+    "criteria": {
+      "Obtain a Dirt Sapling": "2025-06-26 20:28:40 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/cauldron": {
+    "criteria": {
+      "Obtain a Cauldron": "2025-06-27 19:52:01 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_farming/skyorchards": {
+    "criteria": {
+      "Obtain Dirt Sapling": "2025-06-26 20:28:40 +0000",
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:06 +0000",
+      "Obtain Petrified Sapling": "2025-06-26 20:42:32 +0000",
+      "Obtain Sand Sapling": "2025-06-27 19:44:57 +0000",
+      "Obtain Clay Sapling": "2025-06-27 19:44:47 +0000",
+      "Obtain Gravel Sapling": "2025-06-27 19:49:21 +0000",
+      "Obtain Bone Sapling": "2025-06-27 19:45:59 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/skygriddragonkill": {
+    "criteria": {
+      "Completed Age of Exploration§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/water": {
+    "criteria": {
+      "Obtain Water in a Clay Bucket": "2025-06-27 19:56:48 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/crushingtub": {
+    "criteria": {
+      "Obtain Crushing Tub": "2025-06-27 19:44:13 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/lapis": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/coal": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/root": {
+    "criteria": {
+      "inventoryChange": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_storage/root": {
+    "criteria": {
+      "inventoryChange": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/diamond": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/obsidian": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/sand": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Sand Sapling": "2025-06-27 19:44:57 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/dirt": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Craft Dirt Block": "2025-06-26 20:32:33 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/coal": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/complete": {
+    "criteria": {
+      "Completed Age of Enhancement§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/claybucket": {
+    "criteria": {
+      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:49 +0000",
+      "Obtain Clay Bucket": "2025-06-27 19:51:27 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/iron": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/stone_crook": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/bone": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Bone Sapling": "2025-06-27 19:45:59 +0000"
+    },
+    "done": true
+  },
+  "pacifist:pacifist_run/peaceful": {
+    "criteria": {
+      "brokeLeaves": "2025-06-26 20:29:56 +0000",
+      "brokeLog": "2025-06-26 20:29:40 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/water": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Water in a Clay Bucket": "2025-06-27 19:56:48 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/acorn/dirt_cooked": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain Cooked Dirt Acorn": "2025-06-27 19:43:09 +0000"
+    },
+    "done": true
+  },
+  "sf4:age1/twerk": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000",
+      "Obtain 8 Dirt Saplings": "2025-06-26 20:31:47 +0000",
+      "Obtain 8 Oak Logs": "2025-06-26 20:35:30 +0000"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/string": {
+    "criteria": {
+      "Obtain Cottonwood Sapling": "2025-06-27 19:59:06 +0000"
+    },
+    "done": false
+  },
+  "sf4:age_power/complete": {
+    "criteria": {
+      "Completed Age of Power§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/clay_bucket": {
+    "criteria": {
+      "Obtain Unfired Clay Bucket": "2025-06-27 19:50:49 +0000",
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": true
+  },
+  "sf4:age_farming/complete": {
+    "criteria": {
+      "Completed Bonsai!!!§r": "2025-06-27 20:04:37 +0000",
+      "Completed Age of Farming§r": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/iron": {
+    "criteria": {
+      "Completed Root": "2025-06-26 20:27:47 +0000"
+    },
+    "done": false
+  },
   "sf4:age1/drying_rack": {
     "criteria": {
       "Completed Root": "2025-06-26 20:27:47 +0000",
       "Obtain Drying Rack": "2025-06-26 20:39:12 +0000"
     },
     "done": true
-  },
-  "tutorial:tutorial/dryingrack": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2025-06-26 20:39:12 +0000"
-    },
-    "done": false
   },
   "tutorial:tutorial/placeoak": {
     "criteria": {
@@ -604,25 +644,13 @@
     },
     "done": false
   },
-  "sf4:age1/amber/tin": {
-    "criteria": {
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": false
-  },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2025-06-26 20:27:47 +0000",
+      "Completed Bonsai!!!§r": "2025-06-27 20:04:37 +0000",
       "Completed Age of Farming§r": "2025-06-26 20:27:47 +0000"
     },
     "done": false
-  },
-  "sf4:age1/acorn/dirt": {
-    "criteria": {
-      "Obtain Dirt Acorn": "2025-06-26 20:31:19 +0000",
-      "Completed Root": "2025-06-26 20:27:47 +0000"
-    },
-    "done": true
   },
   "sf4:age_allthethingsomglol/root": {
     "criteria": {
